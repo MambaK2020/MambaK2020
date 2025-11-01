@@ -23,16 +23,16 @@ const me = {
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/oleksandr-nahirniak-657318277/" target="_blank" style="margin-right: 20px;">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/oleksandr-nahirniak-657318277/" target="_blank" style="margin-right: 30px;">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="45" width="45" />
   </a>
   
-  <a href="https://t.me/Mamba2020" target="_blank" style="margin-right: 20px;">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" height="40" width="40" />
+  <a href="https://t.me/Mamba2020" target="_blank" style="margin-right: 30px;">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="45" width="45" />
   </a>
   
   <a href="mailto:alexsandermamba@gmail.com">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="40" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="45" width="45" />
   </a>
 </p>
 
