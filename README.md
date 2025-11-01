@@ -16,6 +16,6 @@ const me = {
   age: 39,
   location: "Ukraine / Germany",
   role: "Full Stack Developer",
-  skills: ["AWS", "Docker", "JavaScript", "TypeScript", "Node.js", "React", "MongoDB", "Linux", "AI Tools"],
+  skills: ["React", "JavaScript", "Node.js", "TypeScript", "Docker", "AWS", "MongoDB", "Linux", "AI Tools"],
   hobbies: ["Active recreation", "Basketball", "Skiing", "Travel", "Blockchain"],
 };
